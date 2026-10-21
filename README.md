@@ -1,34 +1,44 @@
-# ELITE CYBERSECURITY SPECIALIST
+<p align="center">
+  <img src="mobile-hardening-images/1-pixel10-security-fortress.png" alt="ECS Custom Secure Android Phones — Pixel 10 and GrapheneOS mobile security service" width="100%" />
+</p>
 
-<div align="center">
-  <img src="mobile-hardening-images/ECS_Digital_Name_Card.png" alt="Elite Cybersecurity Specialist — Official Name Card" width="600" />
-</div>
+<h1 align="center">CUSTOM SECURE ANDROID PHONES</h1>
 
+<p align="center"><strong>GOOGLE PIXEL 10 + GRAPHENEOS | MOBILE DEFENSIVE SECURITY</strong></p>
 
+<p align="center"><strong>ELITE CYBERSECURITY SPECIALIST · MALAYSIA</strong></p>
 
-<div align="center">
-  <img src="mobile-hardening-images/ECS-Name-Card.png" alt="Elite Cybersecurity Specialist — official company name card and contact information" width="820" />
-</div>
+<p align="center"><strong>HARDEN. PROTECT. RESTRICT. TEST. VERIFY.</strong></p>
 
-## CUSTOM SECURE ANDROID PHONES — MOBILE DEFENSIVE SECURITY
-
-**GOOGLE PIXEL 10 + GRAPHENEOS | HARDENED FOR SENSITIVE COMMUNICATIONS**
-
-**HARDEN. PROTECT. RESTRICT. TEST. VERIFY.**
-
-> **Your phone is more than a phone.** It carries private conversations, contact networks, authentication sessions, confidential files and access to the systems you depend on. If the device is compromised, those relationships and assets can be put at risk. **ECS builds a more deliberate mobile security environment around what you actually need to protect.**
-
-<div align="center">
-  <img src="mobile-hardening-images/1-pixel10-security-fortress.png" alt="Elite Cybersecurity Specialist — Google Pixel 10 with GrapheneOS mobile defensive security, service pricing and maintenance offering" width="650" />
-</div>
-
-<p align="center"><strong>Hardened Android. Controlled exposure. Privacy by design. Verified before handover.</strong></p>
+<p align="center">Business Registration: <strong>202403184091 (MA0319303-P)</strong></p>
 
 <p align="center">
-  <a href="#request-a-secure-phone"><strong>ENQUIRE ABOUT A SECURE PHONE</strong></a> ·
-  <a href="#what-the-ecs-service-adds"><strong>WHY ECS?</strong></a> ·
-  <a href="#advertised-investment"><strong>PRICING</strong></a> ·
-  <a href="https://github.com/elite-cybersecurity-specialist/company-profile"><strong>COMPANY PROFILE</strong></a>
+  <img src="mobile-hardening-images/ECS_Digital_Name_Card.png" alt="Official Elite Cybersecurity Specialist digital name card" width="720" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf">Download Company Profile (PDF)</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile">View Company Profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/elite-cybersecurity-specialist">Other Cybersecurity Subjects</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:Yuhisern@protonmail.com">Contact ECS</a>
+</p>
+
+> [!NOTE]
+> **YOUR PHONE IS MORE THAN A PHONE.** It holds confidential conversations, authentication sessions, private files and access to valuable accounts. **ECS combines supported secure hardware, GrapheneOS, customer-specific restrictions, validation and covered maintenance** to reduce unnecessary exposure. No device or configuration is guaranteed to prevent all attacks.
+
+<p align="center"><strong>Hardened Android · Controlled exposure · Privacy by design · Verified before handover</strong></p>
+
+<p align="center">
+  <a href="#request-a-secure-phone"><strong>REQUEST A SECURE PHONE</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#what-the-ecs-service-adds"><strong>WHY ECS?</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#advertised-investment"><strong>PRICING</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#supporting-technical-documentation"><strong>TECHNICAL DOCUMENTATION</strong></a>
 </p>
 
 ---
@@ -50,6 +60,7 @@
 - [Questions Customers Ask](#questions-customers-ask)
 - [Security Reality and Independence](#security-reality-and-independence)
 - [Request a Secure Phone](#request-a-secure-phone)
+- [Supporting Technical Documentation](#supporting-technical-documentation)
 - [Technical References](#technical-references)
 
 ---
@@ -62,7 +73,8 @@ Our mobile service starts with a straightforward question: **What would it mean 
 
 Many customers do not need another collection of security apps. They need a carefully selected device, a secure operating-system foundation, practical restrictions, application separation, communication controls, validation and a maintenance plan that makes sense for their work.
 
-**Our objective is not to sell an “unhackable phone.” It is to make the device significantly harder to compromise, reduce unnecessary exposure, and give the owner a defensible, maintainable security configuration.**
+> [!NOTE]
+> **SECURITY ENGINEERING, NOT SECURITY THEATRE.** Our objective is not to sell an “unhackable phone.” It is to make the device harder to compromise, reduce unnecessary exposure, and give the owner a defensible, maintainable security configuration.
 
 ### What the customer is buying
 
@@ -132,7 +144,8 @@ GrapheneOS builds on Android's existing protections and adds work on exploit mit
 | **Owner handover** | Explain the security configuration, operational trade-offs and what to do after device loss or suspicion of compromise |
 | **Ongoing maintenance** | Covered reinstallation, security updates, configuration restoration and verification, under the stated terms |
 
-**The objective is an integrated security baseline, not the largest number of toggles switched on.** Each control should have a reason, a verification step and an operational owner.
+> [!NOTE]
+> **THE ECS ADVANTAGE:** The value is in the integrated security baseline—not the number of toggles enabled. Every control should have a reason, a verification step and an operational owner.
 
 ---
 
@@ -183,7 +196,8 @@ See [Security Architecture and Threat Model](docs/SECURITY_ARCHITECTURE.md) for 
 | **Encrypted communications** | Approved end-to-end encrypted apps and identity verification practices | Improves protection of communications where configured and correctly used |
 | **Recoverability** | Agreed backup/recovery approach, update plan, configuration records | Makes secure operation maintainable beyond installation day |
 
-**Important distinction:** Many baseline protections belong to Google Pixel hardware, modern Android and GrapheneOS. ECS does not claim to have invented those features. The value of the ECS service is **how they are selected, configured, tested and supported together**.
+> [!NOTE]
+> **PLATFORM VS. PROFESSIONAL SERVICE:** Baseline protections come from Pixel hardware, Android and GrapheneOS. ECS does not claim to have invented them. The professional service is **selecting, configuring, testing and supporting those protections together**.
 
 ---
 
@@ -270,7 +284,8 @@ This is **a platform-selection decision for ECS's mobile-hardening workflow, not
 
 **Why the service fee exists:** customers are paying for configuration engineering, careful integration, verification, client-specific guidance and the covered maintenance commitment—not merely an operating-system download.
 
-**Price transparency:** The USD 1,000 device line is the amount used in ECS's advertisement, **not a representation of Google's official retail price**. Google Store pricing, local availability, import costs, tax, shipping and exchange rates may differ. A final written quotation should confirm the exact device/storage, included services, any additional costs and applicable maintenance conditions before purchase.
+> [!NOTE]
+> **CLEAR PRICING:** USD 1,000 for the device is ECS’s **advertised allocation**, not Google’s official retail price. Actual device cost, taxes, shipping, currency rates and service scope may vary. A final written quotation confirms the details before purchase.
 
 For scope and service boundaries, see [Service Scope and Maintenance](docs/SERVICE_SCOPE_AND_MAINTENANCE.md).
 
@@ -293,7 +308,8 @@ ECS advertises **Lifetime Security Maintenance** for the covered mobile-hardenin
 
 Customers may **visit ECS or mail in the device** for covered work, subject to appointment, shipping arrangements, identity/ownership verification and written terms.
 
-**Key boundaries:** Hardware damage, device replacement, lost data, third-party subscription fees, shipping, customs and unsupported devices are not automatically included. Maintenance does not extend the OS vendor's or handset maker's security-support period. Data loss may occur during reinstallations; customers need an agreed backup plan. Exact coverage and any applicable charges must be confirmed in writing.
+> [!NOTE]
+> **WHAT “LIFETIME” MEANS:** Covered maintenance applies during the **supported security lifetime of the supplied device**, under written terms. It does not extend vendor support or automatically include hardware replacement, shipping, lost data or third-party fees. Reinstallation may erase data; agree on backups beforehand.
 
 Full proposed terms: [Service Scope and Maintenance](docs/SERVICE_SCOPE_AND_MAINTENANCE.md).
 
@@ -355,6 +371,21 @@ Based in **Malaysia**
 **For an enquiry, include:** your country, preferred Pixel model (if any), required applications, number of devices, whether you already own the phone, and the general category of security/privacy concerns. **Do not send passwords, sensitive case details or confidential operational information in an initial message.**
 
 > **HARDEN THE DEVICE. PROTECT THE COMMUNICATION. RESTRICT THE EXPOSURE. VERIFY THE RESULT.**
+
+---
+
+## Supporting Technical Documentation
+
+Our three supporting documents describe the proposed engineering approach and the boundaries of the service:
+
+| Technical document | What it covers |
+|---|---|
+| [Security Architecture](docs/SECURITY_ARCHITECTURE.md) | Threat model, layered controls and privacy/security design. |
+| [Deployment and Verification](docs/DEPLOYMENT_AND_VERIFICATION.md) | Preparation, installation, hardening, acceptance checks and handover. |
+| [Service Scope and Maintenance](docs/SERVICE_SCOPE_AND_MAINTENANCE.md) | Included work, exclusions, ongoing support and customer responsibilities. |
+
+> [!NOTE]
+> **CONFIDENTIALITY BY DESIGN:** Public documentation explains our intended approach. Client credentials, deployment-specific configurations and private security details are not published here.
 
 ---
 
