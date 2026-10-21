@@ -1,5 +1,15 @@
 # ELITE CYBERSECURITY SPECIALIST
 
+<div align="center">
+  <img src="mobile-hardening-images/ECS_Digital_Name_Card.png" alt="Elite Cybersecurity Specialist — Official Name Card" width="600" />
+</div>
+
+
+
+<div align="center">
+  <img src="mobile-hardening-images/ECS-Name-Card.png" alt="Elite Cybersecurity Specialist — official company name card and contact information" width="820" />
+</div>
+
 ## CUSTOM SECURE ANDROID PHONES — MOBILE DEFENSIVE SECURITY
 
 **GOOGLE PIXEL 10 + GRAPHENEOS | HARDENED FOR SENSITIVE COMMUNICATIONS**
