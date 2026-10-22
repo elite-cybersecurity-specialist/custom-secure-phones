@@ -62,6 +62,7 @@
 - [Request a Secure Phone](#request-a-secure-phone)
 - [Supporting Technical Documentation](#supporting-technical-documentation)
 - [Technical References](#technical-references)
+- [Connect with Elite Cybersecurity Specialist](#connect-with-elite-cybersecurity-specialist)
 
 ---
 
@@ -359,14 +360,7 @@ ECS aims to reduce realistic risk by combining a strong platform with deliberate
 
 **Tell us what you need to protect. We'll discuss the appropriate device, applications, communications model and security configuration before proposing a final scope.**
 
-**ELITE CYBERSECURITY SPECIALIST**  
-Business registration: **202403184091 (MA0319303-P)**  
-Based in **Malaysia**
-
-- **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)
-- **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
-- **Company profile:** [elite-cybersecurity-specialist/company-profile](https://github.com/elite-cybersecurity-specialist/company-profile)
-- **GitHub organization:** [elite-cybersecurity-specialist](https://github.com/elite-cybersecurity-specialist)
+For full contact details, official digital name card and social platforms, see [Connect with Elite Cybersecurity Specialist](#connect-with-elite-cybersecurity-specialist).
 
 **For an enquiry, include:** your country, preferred Pixel model (if any), required applications, number of devices, whether you already own the phone, and the general category of security/privacy concerns. **Do not send passwords, sensitive case details or confidential operational information in an initial message.**
 
@@ -398,5 +392,30 @@ These independent primary sources support the underlying platform statements. Th
 - [GrapheneOS — Official installation and verified-boot instructions](https://grapheneos.org/install/web)
 - [GrapheneOS — Usage guidance](https://grapheneos.org/usage)
 - [Google Store — Pixel 10 product configuration and current regional pricing](https://store.google.com/config/pixel_10?hl=en-US)
+
+---
+
+## Connect with Elite Cybersecurity Specialist
+
+**Yuhisern Navaratnam** — Cybersecurity Engineer  
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
+
+<p align="center">
+  <a href="mobile-hardening-images/ECS_Digital_Name_Card.png">
+    <img src="mobile-hardening-images/ECS_Digital_Name_Card.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525" />
+  </a>
+</p>
+
+**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
+**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)  
+**GitHub — Custom Secure Phones:** [Official repository](https://github.com/elite-cybersecurity-specialist/custom-secure-phones)  
+**GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)  
+**GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)  
+**TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)  
+**LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)  
+**X:** [x.com/yuhisern](https://x.com/yuhisern)
+
+---
 
 <sub>ELITE CYBERSECURITY SPECIALIST | Mobile Defensive Security | October 2026. Service descriptions and pricing are proposals subject to device compatibility, individual assessment and written engagement terms. Product screenshots and promotional artwork are illustrative.</sub>
